@@ -2,3 +2,7 @@
 .user.yml
 /logs
 logs
+
+/course_doc
+*.json
+*.pdf
